@@ -3,8 +3,8 @@
 SoftwareSerial serialToController(8, 9); // RX, TX
 
 void setup() {
-  Serial.begin(115200);
-  serialToController.begin(115200);
+  Serial.begin(1200);
+  serialToController.begin(1200);
 }
 
 void loop() {
