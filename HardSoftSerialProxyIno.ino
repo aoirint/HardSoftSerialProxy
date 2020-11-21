@@ -1,6 +1,6 @@
 #include <SoftwareSerial.h>
 
-SoftwareSerial serialToController(3, 2); // RX, TX
+SoftwareSerial serialToController(8, 9); // RX, TX
 
 void setup() {
   Serial.begin(115200);

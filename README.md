@@ -1,5 +1,7 @@
 # HardSoftSerialProxyIno
-Proxy board (this program): TX: 2, RX: 3
-Target board: TX: 3, RX: 2
 
-Connect Proxy board's "2, 3" to Target board's "3, 2".
+## proxy to SoftwareSerial
+Proxy board (this program): TX: 9, RX: 8
+Target board: TX: 9, RX: 8
+
+Connect Proxy board's "8, 9" to Target board's "9, 8".
