@@ -1,7 +1,7 @@
 # HardSoftSerialProxyIno
 
-## proxy to SoftwareSerial
-Proxy board (this program): TX: 9, RX: 8
-Target board: TX: 9, RX: 8
+## HardwareSerialとSoftwareSerial間のプロキシ
+プロキシボード（このプログラム）は、TX: 9, RX: 8。
+目的のボードは、TX: 9, RX: 8。
 
-Connect Proxy board's "8, 9" to Target board's "9, 8".
+プロキシボードの8, 9番ピンを目的のボードの9, 8番ピンに接続する。
